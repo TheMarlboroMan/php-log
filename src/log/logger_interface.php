@@ -1,4 +1,5 @@
 <?php
+declare(strict_types=1);
 namespace log;
 
 //!Interface that must be implemented by all log classes.

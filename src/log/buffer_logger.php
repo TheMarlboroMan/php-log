@@ -1,5 +1,5 @@
 <?php
-
+declare(strict_types=1);
 namespace log;
 
 //!Logger that buffers its contents to a string. Useful when testing

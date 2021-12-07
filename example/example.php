@@ -1,4 +1,5 @@
 <?php
+declare(strict_types=1);
 spl_autoload_register(function(string $_classname) {
 
 	$filename=__DIR__."/../src/".str_replace("\\", "/", $_classname).".php";

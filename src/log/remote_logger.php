@@ -1,4 +1,5 @@
 <?php
+declare(strict_types=1);
 namespace log;
 
 //!Implementation of log interface that makes use or remote syslog
